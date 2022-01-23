@@ -1,0 +1,4 @@
+python-twitter
+requests_oauthlib
+tweepy
+schedule
